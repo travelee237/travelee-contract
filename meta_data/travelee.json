@@ -1,0 +1,7 @@
+{
+  "name": "Travelee",
+  "description": "A Token for Integrating Travel Content and Products",
+  "symbol": "TRVL",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/travelee237/travelee-contract/main/meta_data/travelee.png"
+}
